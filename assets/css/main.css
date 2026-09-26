@@ -2000,6 +2000,7 @@ section, .section {
   border-radius: var(--r-md);
   border: 1px solid var(--border-color);
   margin-bottom: 20px;
+  object-fit: cover;
 }
 
 .service-details h3 { font-size: clamp(22px, 2.4vw, 28px); font-weight: 700; margin: 0 0 14px; }
